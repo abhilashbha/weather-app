@@ -2,7 +2,7 @@ Dynamic Weather Information System
 
 Technologies: HTML, CSS, JavaScript, REST APIs, OpenWeather API, Geolocation API, LocalStorage
 
-Bullet points (copy–paste ready):
+Bullet points:
 
 Developed a responsive weather web application that provides real-time weather, 5-day forecasts, air quality index (AQI), and hourly timelines using REST APIs.
 
