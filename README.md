@@ -59,9 +59,6 @@ The system displays:
 * Sunrise and sunset time
 * AQI indicator
 * 5-day forecast cards
-
-* Dark mode support
 * Hourly weather forecast
 * Weather map visualization
 * Mobile app version
-* Multiple language support
